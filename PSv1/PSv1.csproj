@@ -132,6 +132,7 @@
     <Content Include="assets\vendor\swiper\swiper-bundle.min.css" />
     <Content Include="assets\vendor\swiper\swiper-bundle.min.js" />
     <Content Include="assets\vendor\waypoints\noframework.waypoints.js" />
+    <Content Include="portfolio-details.html" />
     <Content Include="projects.html" />
     <Content Include="links.html" />
     <Content Include="resume.html" />
