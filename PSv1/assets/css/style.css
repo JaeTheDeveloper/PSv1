@@ -1153,16 +1153,16 @@ section {
   color: #fff;
 }
 
-.contact .php-email-form {
+.contact .js-validation {
   width: 100%;
   background: #fff;
 }
 
-.contact .php-email-form .form-group {
+.contact .js-validation .form-group {
   padding-bottom: 8px;
 }
 
-.contact .php-email-form .error-message {
+.contact .js-validation .error-message {
   display: none;
   color: #fff;
   background: #ed3c0d;
@@ -1171,7 +1171,7 @@ section {
   font-weight: 600;
 }
 
-.contact .php-email-form .sent-message {
+.contact .js-validation .sent-message {
   display: none;
   color: #fff;
   background: #18d26e;
@@ -1180,14 +1180,14 @@ section {
   font-weight: 600;
 }
 
-.contact .php-email-form .loading {
+.contact .js-validation .loading {
   display: none;
   background: #fff;
   text-align: center;
   padding: 15px;
 }
 
-.contact .php-email-form .loading:before {
+.contact .js-validation .loading:before {
   content: "";
   display: inline-block;
   border-radius: 50%;
@@ -1200,25 +1200,25 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .js-validation input, .contact .js-validation textarea {
   border-radius: 4px;
   box-shadow: none;
   font-size: 14px;
 }
 
-.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+.contact .js-validation input:focus, .contact .js-validation textarea:focus {
   border-color: #34b7a7;
 }
 
-.contact .php-email-form input {
+.contact .js-validation input {
   height: 44px;
 }
 
-.contact .php-email-form textarea {
+.contact .js-validation textarea {
   padding: 10px 12px;
 }
 
-.contact .php-email-form button[type="submit"] {
+.contact .js-validation button[type="submit"] {
   background: #34b7a7;
   border: 0;
   padding: 10px 30px 12px 30px;
@@ -1227,7 +1227,7 @@ section {
   border-radius: 50px;
 }
 
-.contact .php-email-form button[type="submit"]:hover {
+.contact .js-validation button[type="submit"]:hover {
   background: #3dc8b7;
 }
 
